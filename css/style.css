@@ -1,0 +1,18 @@
+/* Reset */
+
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+/* Generics */
+
+body{
+font-family: sans-serif;
+background-color: #f5f5f1;
+}
+
+p{
+color: grey;
+}
